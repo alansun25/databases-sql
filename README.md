@@ -1,2 +1,2 @@
-# databases-sql
-Exercises from StanfordOnline's SQL course, taught by Jennifer Widom
+# Databases: SQL
+Exercises from StanfordOnline's SQL course, taught by Professor Jennifer Widom
